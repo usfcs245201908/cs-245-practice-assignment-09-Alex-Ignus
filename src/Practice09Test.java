@@ -20,7 +20,7 @@ public class Practice09Test {
 		test4Size = 100000;
 	}
 
-	
+
 	/**
 	 * Basic test: insert a number then remove it and check that it's the same one.
 	 * @return true on success; false otherwise.
